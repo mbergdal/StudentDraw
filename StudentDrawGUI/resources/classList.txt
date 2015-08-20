@@ -1,0 +1,17 @@
+Mathias:8
+Vemund:7
+Jim:8
+Are:2
+Magnus:8
+Adrian:8
+Kristine:8
+Ingeborg:7
+Pavlo:8
+Rino:8
+Kristin:8
+Silje:8
+Lars:8
+Mats:8
+Aksel:3
+Thomas:5
+Liss:1
